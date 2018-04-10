@@ -15,4 +15,4 @@ endtime = time.time()
 
 print("计算所用时间:%d" %(endtime-begintime))
 print("finished")
-
+print("*" * 50)
